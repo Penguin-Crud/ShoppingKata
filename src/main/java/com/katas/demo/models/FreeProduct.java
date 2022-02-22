@@ -1,6 +1,6 @@
 package com.katas.demo.models;
 
-public class FreeProduct {
+public class FreeProduct extends Product {
     private String name;
     private Double price;
 
